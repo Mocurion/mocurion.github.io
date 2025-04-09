@@ -1,0 +1,24 @@
+[gd_scene load_steps=2 format=3 uid="uid://dsca0pgnd486f"]
+
+[sub_resource type="Theme" id="Theme_a8s04"]
+
+[node name="HUD" type="CanvasLayer"]
+
+[node name="Control" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 1
+anchor_left = 1.0
+anchor_right = 1.0
+offset_left = -95.0
+offset_bottom = 25.0
+grow_horizontal = 0
+size_flags_horizontal = 2
+size_flags_vertical = 2
+theme = SubResource("Theme_a8s04")
+
+[node name="health_label" type="Label" parent="Control"]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 23.0
+text = "did not load"
+horizontal_alignment = 2
