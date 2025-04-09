@@ -485,7 +485,7 @@ sources/3 = SubResource("TileSetAtlasSource_cj4gs")
 [node name="World" type="Node2D"]
 
 [node name="Player" parent="." instance=ExtResource("1_5rk86")]
-position = Vector2(883, 123)
+position = Vector2(748, 327)
 
 [node name="Static_Object" parent="." instance=ExtResource("2_8lmhy")]
 position = Vector2(376, 50)
