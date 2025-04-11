@@ -1,8 +1,7 @@
 extends CharacterBody2D
 
 const SPEED = 300.0
-const JUMP_VELOCITY = -400.0
-@onready var _animated_sprite: AnimatedSprite2D = %AnimatedSprite2D
+@onready var _animated_sprite: AnimatedSprite2D = $AnimatedSprite2D
 
 var enemy_in_attack_range = false
 var enemy_attack_cooldown = true
@@ -15,13 +14,9 @@ var last_direction:String = "none"
 
 func player():
 	pass
-	
-
-
+		
 func _physics_process(delta: float) -> void:	
 	var input_dir = Vector2.ZERO
-	
-	
 	if Input.is_action_pressed("ui_left"):
 		input_dir.x -= 1
 		last_direction = "left"
@@ -80,11 +75,9 @@ func _physics_process(delta: float) -> void:
 	enemy_attack()	
 	attack()
 
-
 func _on_player_hitbox_body_entered(body: Node2D) -> void:
 	if body.has_method("enemy"):
 		enemy_in_attack_range = true
-
 
 func _on_player_hitbox_body_exited(body: Node2D) -> void:
 	if body.has_method("enemy"):
@@ -98,7 +91,6 @@ func enemy_attack():
 		$attack_cooldown.start()
 		print("playerhealth:" + str(player_health))
 
-
 func _on_attack_cooldown_timeout() -> void:
 	enemy_attack_cooldown = true
 	$attack_cooldown.stop()
@@ -108,14 +100,11 @@ func attack():
 		$attack_duration_timer.start()
 		Global.player_current_attack = true
 		player_attack_in_progress = true
-		
-
-
+	
 func _on_attack_duration_timer_timeout() -> void:
 	$attack_duration_timer.stop()
 	Global.player_current_attack = false
 	player_attack_in_progress = false	
-
 
 func _on_ready() -> void:
 	$"../HUD/Control/health_label".text = "health: " + str(player_health)
