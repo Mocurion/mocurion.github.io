@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c1bp6nngf2vfe"
-path="res://.godot/imported/TX Plant.png-7bfeaa9e5ddcf8e2a74774ccb24403e3.ctex"
+path="res://godot/imported/TX Plant.png-7bfeaa9e5ddcf8e2a74774ccb24403e3.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://Assets/BasicTopDown/TX Plant.png"
-dest_files=["res://.godot/imported/TX Plant.png-7bfeaa9e5ddcf8e2a74774ccb24403e3.ctex"]
+dest_files=["res://godot/imported/TX Plant.png-7bfeaa9e5ddcf8e2a74774ccb24403e3.ctex"]
 
 [params]
 

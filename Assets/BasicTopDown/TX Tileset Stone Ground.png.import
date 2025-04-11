@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://swcs7eyv70sk"
-path="res://.godot/imported/TX Tileset Stone Ground.png-2cf229b5e63db23383127eaa382d47d6.ctex"
+path="res://godot/imported/TX Tileset Stone Ground.png-2cf229b5e63db23383127eaa382d47d6.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://Assets/BasicTopDown/TX Tileset Stone Ground.png"
-dest_files=["res://.godot/imported/TX Tileset Stone Ground.png-2cf229b5e63db23383127eaa382d47d6.ctex"]
+dest_files=["res://godot/imported/TX Tileset Stone Ground.png-2cf229b5e63db23383127eaa382d47d6.ctex"]
 
 [params]
 

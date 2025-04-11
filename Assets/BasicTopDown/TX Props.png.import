@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://djr8b25h5y1mh"
-path="res://.godot/imported/TX Props.png-251ccebf30293cd9d026a232200d9c06.ctex"
+path="res://godot/imported/TX Props.png-251ccebf30293cd9d026a232200d9c06.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://Assets/BasicTopDown/TX Props.png"
-dest_files=["res://.godot/imported/TX Props.png-251ccebf30293cd9d026a232200d9c06.ctex"]
+dest_files=["res://godot/imported/TX Props.png-251ccebf30293cd9d026a232200d9c06.ctex"]
 
 [params]
 

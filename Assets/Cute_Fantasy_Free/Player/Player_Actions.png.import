@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dwjyqiqtfkokw"
-path="res://.godot/imported/Player_Actions.png-fe0813415142a930ad7c7003a4da8b7f.ctex"
+path="res://godot/imported/Player_Actions.png-fe0813415142a930ad7c7003a4da8b7f.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://Assets/Cute_Fantasy_Free/Player/Player_Actions.png"
-dest_files=["res://.godot/imported/Player_Actions.png-fe0813415142a930ad7c7003a4da8b7f.ctex"]
+dest_files=["res://godot/imported/Player_Actions.png-fe0813415142a930ad7c7003a4da8b7f.ctex"]
 
 [params]
 

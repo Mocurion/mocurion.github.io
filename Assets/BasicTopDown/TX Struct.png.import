@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bbgbofpblflav"
-path="res://.godot/imported/TX Struct.png-111bf3363071d04e7e65be1f28cdd1ea.ctex"
+path="res://godot/imported/TX Struct.png-111bf3363071d04e7e65be1f28cdd1ea.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://Assets/BasicTopDown/TX Struct.png"
-dest_files=["res://.godot/imported/TX Struct.png-111bf3363071d04e7e65be1f28cdd1ea.ctex"]
+dest_files=["res://godot/imported/TX Struct.png-111bf3363071d04e7e65be1f28cdd1ea.ctex"]
 
 [params]
 
