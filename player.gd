@@ -109,4 +109,4 @@ func _on_attack_duration_timer_timeout() -> void:
 func _on_ready() -> void:
 	$"../HUD/Control/health_label".text = "health: " + str(player_health)
 	self.global_transform = (Transform2D(0, DisplayServer.window_get_size()/2))
-	#self.global_scale = Vector2(2,2)
+	self.global_scale = Vector2(2,2)
