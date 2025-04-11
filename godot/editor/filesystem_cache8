@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1744355975
+::res://::1744357182
 enemy.gd::GDScript::-1::1744205787::0::1::::<>CharacterBody2D<>::
 enemy.tscn::PackedScene::1768792669207872788::1744355970::0::1::::<><>::res://enemy.gd<>uid://wir8de07oju2::::res://Assets/BlackRabite.png
 export_presets.cfg::TextFile::-1::1744207903::0::1::::<><>::
@@ -10,17 +10,17 @@ index.apple-touch-icon.png::CompressedTexture2D::6610411187123221834::1744207903
 index.icon.png::CompressedTexture2D::5772531344228822286::1744207903::1744355976::1::::<><>::
 index.png::CompressedTexture2D::984682764463201572::1744207903::1744355976::1::::<><>::
 player.gd::GDScript::-1::1744355661::0::1::::<>CharacterBody2D<>::
-player.tscn::PackedScene::1307950984648805562::1744355970::0::1::::<><>::res://player.gd<>uid://b3bv58kjsn1o7::::res://Assets/Duran.png
+player.tscn::PackedScene::1307950984648805562::1744355986::0::1::::<><>::res://player.gd<>uid://b3bv58kjsn1o7::::res://Assets/Duran.png
 static_object.tscn::PackedScene::6856401921376912693::1744355970::0::1::::<><>::uid://ccdjk4eaihqu1::::res://icon.svg
-world.tscn::PackedScene::2603199684554836508::1744355970::0::1::::<><>::uid://svt05o3oc63w::::res://player.tscn<>uid://c4xj65hx4n2wf::::res://static_object.tscn<>uid://0g20y50453yu::::res://enemy.tscn<>uid://2yufk5bdldk0::::res://Assets/BasicTopDown/TX Tileset Grass.png<>uid://swcs7eyv70sk::::res://Assets/BasicTopDown/TX Tileset Stone Ground.png<>uid://c1bp6nngf2vfe::::res://Assets/BasicTopDown/TX Plant.png<>uid://dsca0pgnd486f::::res://hud.tscn
-::res://Assets/::1744355604
+world.tscn::PackedScene::2603199684554836508::1744355986::0::1::::<><>::uid://svt05o3oc63w::::res://player.tscn<>uid://c4xj65hx4n2wf::::res://static_object.tscn<>uid://0g20y50453yu::::res://enemy.tscn<>uid://2yufk5bdldk0::::res://Assets/BasicTopDown/TX Tileset Grass.png<>uid://swcs7eyv70sk::::res://Assets/BasicTopDown/TX Tileset Stone Ground.png<>uid://c1bp6nngf2vfe::::res://Assets/BasicTopDown/TX Plant.png<>uid://dsca0pgnd486f::::res://hud.tscn
+::res://Assets/::1744355976
 BlackRabite.png::CompressedTexture2D::1561760867073559927::1744093419::1744355976::1::::<><>::
 Duran.png::CompressedTexture2D::4355103063129423500::1744355594::1744355976::1::::<><>::
 Duran_unedited.png::CompressedTexture2D::4413570972388534171::1743758713::1744355976::1::::<><>::
 FreePack.png::CompressedTexture2D::2889587963397656559::1744182386::1744355976::1::::<><>::
 SNES - Secret of Evermore - Boy Spear.png::CompressedTexture2D::4443454650081277056::1743757672::1744355976::1::::<><>::
 Werewolf.png::CompressedTexture2D::4665554952862004668::1743754272::1744355976::1::::<><>::
-::res://Assets/BasicTopDown/::1744208141
+::res://Assets/BasicTopDown/::1744355976
 TX Plant.png::CompressedTexture2D::6600782497398041770::1744182451::1744355976::1::::<><>::
 TX Player.png::CompressedTexture2D::293676663255969336::1744182451::1744355976::1::::<><>::
 TX Props.png::CompressedTexture2D::7828062977029507207::1744182451::1744355976::1::::<><>::
@@ -33,19 +33,19 @@ TX Tileset Wall.png::CompressedTexture2D::2328480721329085645::1744182451::17443
 ::res://Assets/Cute_Fantasy_Free/::1744208141
 read_me.txt::TextFile::-1::1744182248::0::1::::<><>::
 ::res://Assets/Cute_Fantasy_Free/Animals/::1744208141
-::res://Assets/Cute_Fantasy_Free/Animals/Chicken/::1744208141
+::res://Assets/Cute_Fantasy_Free/Animals/Chicken/::1744355976
 Chicken.png::CompressedTexture2D::4429818988667034057::1744182248::1744355976::1::::<><>::
-::res://Assets/Cute_Fantasy_Free/Animals/Cow/::1744208141
+::res://Assets/Cute_Fantasy_Free/Animals/Cow/::1744355976
 Cow.png::CompressedTexture2D::3907478829012283617::1744182248::1744355976::1::::<><>::
-::res://Assets/Cute_Fantasy_Free/Animals/Pig/::1744208141
+::res://Assets/Cute_Fantasy_Free/Animals/Pig/::1744355976
 Pig.png::CompressedTexture2D::6333058366857548690::1744182248::1744355976::1::::<><>::
-::res://Assets/Cute_Fantasy_Free/Animals/Sheep/::1744208141
+::res://Assets/Cute_Fantasy_Free/Animals/Sheep/::1744355976
 Sheep.png::CompressedTexture2D::2015209982026254069::1744182248::1744355976::1::::<><>::
-::res://Assets/Cute_Fantasy_Free/Enemies/::1744208141
+::res://Assets/Cute_Fantasy_Free/Enemies/::1744355976
 Skeleton.png::CompressedTexture2D::2237612780380692021::1744182248::1744355976::1::::<><>::
 Slime.png::CompressedTexture2D::672616712369225557::1744182248::1744355976::1::::<><>::
 Slime_Green.png::CompressedTexture2D::5610997567124180060::1744182248::1744355976::1::::<><>::
-::res://Assets/Cute_Fantasy_Free/Outdoor decoration/::1744208141
+::res://Assets/Cute_Fantasy_Free/Outdoor decoration/::1744355976
 Bridge_Wood.png::CompressedTexture2D::2381187679653856573::1744182248::1744355976::1::::<><>::
 Chest.png::CompressedTexture2D::763532383379349273::1744182248::1744355976::1::::<><>::
 Fences.png::CompressedTexture2D::4386052142589498043::1744182248::1744355976::1::::<><>::
@@ -53,10 +53,10 @@ House.png::CompressedTexture2D::7900425661318630540::1744182248::1744355976::1::
 Oak_Tree.png::CompressedTexture2D::4770395161337941665::1744182249::1744355976::1::::<><>::
 Oak_Tree_Small.png::CompressedTexture2D::7092341422872695271::1744182249::1744355976::1::::<><>::
 Outdoor_Decor_Free.png::CompressedTexture2D::2010197521953617893::1744182249::1744355976::1::::<><>::
-::res://Assets/Cute_Fantasy_Free/Player/::1744208141
+::res://Assets/Cute_Fantasy_Free/Player/::1744355976
 Player.png::CompressedTexture2D::3407064537222529377::1744182249::1744355976::1::::<><>::
 Player_Actions.png::CompressedTexture2D::8723482237205463202::1744182249::1744355976::1::::<><>::
-::res://Assets/Cute_Fantasy_Free/Tiles/::1744208141
+::res://Assets/Cute_Fantasy_Free/Tiles/::1744355976
 Beach_Tile.png::CompressedTexture2D::5363750497274173123::1744182249::1744355976::1::::<><>::
 Cliff_Tile.png::CompressedTexture2D::8087061161928874320::1744182249::1744355976::1::::<><>::
 FarmLand_Tile.png::CompressedTexture2D::3320838409652502320::1744182249::1744355976::1::::<><>::

@@ -1,0 +1,5 @@
+res://enemy.tscn::d251a998f8fa3e90d5feb271cde9998b::1744355970::res://godot/exported/133200997/export-ec12bd2205a8e44213188668d747d7fa-enemy.scn
+res://hud.tscn::2725d29cbacffa3a0b4d6af63ac147a9::1744355970::res://godot/exported/133200997/export-f4cf891e5f7a93b93d9b27cfb8401ccb-hud.scn
+res://player.tscn::050da757f798adbb418bf15b04bc68fd::1744357202::res://godot/exported/133200997/export-36a25e342948d0ceacc500772b5412b3-player.scn
+res://static_object.tscn::4ccbc0bdd5a3e1a017fb476216d6c5d1::1744355970::res://godot/exported/133200997/export-2a4cf84d8c28f728794fc54215b8b7c0-static_object.scn
+res://world.tscn::665d1314fe83f33ceed06c63e53f2009::1744357202::res://godot/exported/133200997/export-76e0adcbc83681695885bae615f516ae-world.scn
